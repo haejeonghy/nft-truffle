@@ -1,0 +1,11 @@
+{
+    "name": "The Cheese #1",
+    "description": "first cheese cat",
+    "image": "https://i.ibb.co/tKDBSgf/Kakao-Talk-Image-2022-06-09-12-40-29.png",
+    "attributes": [
+      {
+        "trait_type": "Power",
+        "value": "Max"
+      }
+    ]
+  }
